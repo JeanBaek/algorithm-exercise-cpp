@@ -1,3 +1,6 @@
+//
+// Created by Eunjin Baek on 2024/01/08.
+//
 #include<cstdio>
 #include<iostream>
 #include<vector>
@@ -19,8 +22,8 @@ int main(){
     string cmd = "codeforces";
 
     while (test--) {
-    string s;
-    cin >> s;
+        string s;
+        cin >> s;
 
         if (cmd.find(s) != string::npos) {
             cout << "YES" << endl;

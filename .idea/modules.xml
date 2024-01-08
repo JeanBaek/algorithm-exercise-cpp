@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/c++codeforces.iml" filepath="$PROJECT_DIR$/.idea/c++codeforces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/cpp-codeforces-base.iml" filepath="$PROJECT_DIR$/.idea/cpp-codeforces-base.iml" />
     </modules>
   </component>
 </project>
